@@ -1,0 +1,344 @@
+@media (max-width: 600px) {
+  body {
+    background-color: white;
+  }
+}
+
+
+.content{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.h1{
+    font-size: large;
+    display: flex;
+    font-weight: 100px;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 5px;
+    padding-left: 5px;
+    padding-right: 3px;
+
+}
+.nav ul{
+    display: inline-block;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 5px;
+    padding-right: 6px;
+    padding-left: 5px;
+}
+.nav ul li{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    align-content: space-between;
+    flex-direction: column;
+}
+.flag{
+    height: 100%;
+    border-radius: 1px;
+    width: 150%;
+
+}
+.unit{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: black;
+    color: white;
+}
+.H{
+    background-color: yellow;
+    color: white;
+}
+.P{
+    font-size: large;
+    font-weight: 100px;
+    color: white;
+    border-radius: none;
+    background-color: black;
+}
+.arrow{
+    font-size: large;
+    font-weight: 600px;
+    background-color: grey;
+    color: white;
+    /* margin-left: &#xf104;	 */
+}
+.content{
+    font-weight: 100px;
+    font-size: large;
+    background-color: white;
+}
+.age{
+    font-weight: 100px;
+    background-color: white;
+    color: black;
+}
+.p{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+    background-color: white;
+    color: black;
+
+}
+.series{
+    background-color: white;
+    color: antiquewhite;
+    font-weight: 100px;
+    
+}
+.h3{
+    font-weight: 100px;
+
+}
+.p{
+    font-size: large;
+    /* border-radius: 2%; */
+}
+.select{
+
+}
+.h4{
+    background-color: yellow;
+    color: white;
+}
+.select{
+    background-color: yellow;
+}
+.h4{
+    background-color: yellow ;
+    color: white;
+    font-size: large;
+}
+.advertise{
+
+    background-color: white;
+    font-weight: 100px;
+
+}
+.H3{
+    font-weight: 200px;
+    margin-left: 80px;
+}
+.page{
+   height: 250px;
+   width: 35%;
+}
+.pic{
+    height: 300px;
+    width: 40%;
+}
+.x{
+    height: 250px;
+    width: 35%;
+}
+.css{
+    height: 250px;
+    width: 40%;
+}
+.unit{
+    font-weight: 100px;
+    background-color: white;
+    color: black;
+}
+.adverts{
+    height: 300px;
+    width: 45%;
+}
+.decx{
+    height: 350px;
+    width: 200px;
+}
+.mumb{
+    height: 170px;
+    width: 80%;
+}
+.cav{
+    height: 170px;
+    width: 150px;
+}
+.qit{
+    font-size: large;
+}
+.H6{
+    font-weight: 100px;
+    font-size: large;
+}
+.movie{
+    height: 250px;
+    width: 200px;
+}
+.kv{
+    height: 400px;
+    width: 300px;
+}
+.jpeg{
+    height: 300px;
+    width: 250px;
+}
+.ages{
+    height: 270px;
+    width: 200px;
+}
+.ideas{
+    height: 250px;
+    width: 200px;
+}
+/* studio{
+
+} */
+.hey{
+    height: 200px;
+    width: 150px;
+}
+.tey{
+    height: 200px;
+    width: 150px;
+}
+.mama{
+    height: 150px;
+    width: 120px;
+}
+.all{
+    height: 250px;
+    width: 200px;
+}
+.dy{
+    height: 80%;
+    width: 60%;
+}
+.der{
+    height: 150px;
+    width: 120px;
+}
+.class{
+    height: 80%;
+    width: 60%;
+    
+}
+.h6{
+    font-weight: 100px;
+    background-color: yellow;
+    color: white;
+}
+.my{
+    font-weight: 100px;
+    font-size: large;
+}
+.h8{
+    font-size: large;
+    font-weight: 100px;
+}
+.jkw{
+    height: 250px;
+    width: 200px;
+
+
+}
+.mwake{
+    height: 250px;
+    width: 200px;
+}
+.me{
+    height: 250px;
+    width: 200px;  
+}
+.bado{
+font-size: large;
+font-weight: 100px;
+}
+.h5{
+    font-size: large;
+    font-weight: 100px;
+    color: white;
+    background-color: yellow;
+}
+.keny{
+    font-size: large;
+}
+.h9{
+    background-color: white;
+    color: grey;
+    font-size: large;
+    font-weight: 100px;
+    border-radius: 2px;
+}
+.button{
+    align-content: space-between;
+
+}
+.h7{
+    background-color: red;
+    color: white;
+    font-size: large;
+    margin-right: 30%;
+    margin-top: -45%;
+}
+.menu{
+    font-size: large;
+    font-weight: 100px;
+
+}
+.P{
+    font-size: large;
+    font-weight: 200px;
+}
+.a{
+    font-size: medium;
+    font-size: 15px;
+}
+.njeru{
+    font-size: large;
+    font-weight: 200px;
+}
+.h3{
+    font-size: large;
+    font-weight: 200px;
+}
+.i{
+    font-size: medium;
+    font-weight: 15px;
+}
+.us{
+    font-size: large;
+    font-weight: 100px;
+}
+.y{
+    font-size: large;
+    font-weight: 200px;
+}
+.z{
+    font-size: large;
+    font-weight: 15px;
+    margin-bottom: 20%;
+}
+.net{
+    font-size: large;
+    font-weight: 200px;
+}
+.h54{
+    font-size: large;
+    font-weight: 100px;
+}
+.move{
+    height: 400px;
+    width: 90%;
+    font-size: medium;
+}
+.oop{
+    font-size: medium;
+    height: 30%;
+    width: 40%;
+
+}
+.ig{
+    
+}
+  
+
